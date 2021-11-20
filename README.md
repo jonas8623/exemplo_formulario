@@ -5,5 +5,5 @@ Exemplo do código de formulário
 <p align="center"> Um formulário e calculando o seu IMC</p>
 
 ### Features
-[x] - Cadastro de usuário
-[x] - Imprimi seu IMC 
+- [x] - Cadastro de usuário
+- [x] - Imprimi seu IMC 
