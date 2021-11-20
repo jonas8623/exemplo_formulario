@@ -1,2 +1,2 @@
 # exemplo_formulario
-Exemplo de um formulário com e verificando seu IMC
+Exemplo de um formulário e verificando seu IMC
